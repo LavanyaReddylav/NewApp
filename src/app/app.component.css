@@ -1,0 +1,25 @@
+#p1{
+    color:black;
+    height: 50px;
+    font-size:20px;
+    width:200px;
+    text-align: center;
+    background-color: pink;
+  
+}
+#p2{
+    color:black;
+    height: 50px;
+    font-size:20px;
+    width:200px;
+    text-align: center;
+    background-color: pink;
+  ;
+}
+
+.nav-tabs{
+  margin-left:500px;
+  word-spacing: 1px;
+   text-decoration-style: none;
+   text-decoration-line: none;
+}

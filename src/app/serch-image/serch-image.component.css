@@ -1,0 +1,20 @@
+#p1{
+    text-align: center;
+    border: solid 3px lightpink;
+    width:400px;
+    height:250px;
+    margin-left: 500px;
+    margin-top:200px;
+  
+}
+.header{
+    margin-top:500px;
+    color: powderblue;
+}
+form{
+    background-color:lightpink;
+     font-size:15px; 
+}
+label{
+    color: black;
+}
